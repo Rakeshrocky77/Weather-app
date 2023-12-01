@@ -40,6 +40,7 @@ body {
 }
 
 .search button {
+    margin-left: 10px;
     border: 0;
     outline: 0;
     background: #ebfffc;
